@@ -42,7 +42,7 @@ function Header({}: Props) {
                <ShoppingCartIcon className='h-6 w-6' />
             </div>
         </nav>
-
+                        
         <hr className='mt-2' />
 
         <section className='flex item-center space-x-2 py-3'>
