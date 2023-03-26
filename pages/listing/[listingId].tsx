@@ -181,7 +181,7 @@ function ListingPage() {
       <>
         <Header />
         <div>
-          <p className="text-3xl animate-pulse text-blue-500">
+          <p className="text-center animate-pulse text-blue-500">
             Loading Item...
           </p>
         </div>

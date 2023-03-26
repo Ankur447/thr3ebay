@@ -37,7 +37,7 @@ const Home = () => {
               <Link
                 key={listing.id}
                 className="flex flex-col card hover:scale-105 transition-all duration-150 ease-out"
-                href={`/listing/${listing.id}`}
+                href={`/listing/${listing.id}`}  // string interpolation
               >
                 <div
                   className="flex-1 flex-col flex"
