@@ -8,18 +8,13 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-install tailwind and react plugins 
-
-install thirdweb react sdk using 
-npm i @thirdweb-dev/react @thirdweb-dev/sdk ethers@^5
-or 
-yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers@^5
-
-
 
 ## How to use
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+
+install Thirdweb React SDK:
+Execute [npm i @thirdweb-dev/react @thirdweb-dev/sdk ethers@^5] with [npm] , [yarn] [yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers@^5]
 
 ```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
